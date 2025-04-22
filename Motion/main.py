@@ -1,0 +1,1 @@
+#terdahulu menggunakan telemetry movement (supervised-motion)

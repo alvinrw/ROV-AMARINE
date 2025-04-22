@@ -1,0 +1,1 @@
+Folder ini aadalah tempat generate telemetry data yang dingunakan untuk autonomous motion
